@@ -1,0 +1,1 @@
+# horizon.wheel-of-fortune.scopely.com
